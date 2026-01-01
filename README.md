@@ -1,6 +1,7 @@
 # Monero RPC Control Panel for Windows
 
 ![GitHub](https://img.shields.io/github/license/techcnet/MoneroRPC-ControlPanel)
+![GitHub](https://img.shields.io/github/license/techcnet/MoneroRPC-ControlPanel)
 ![GitHub last commit](https://img.shields.io/github/last-commit/techcnet/MoneroRPC-ControlPanel)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://tech-c.net/donation/)
 
